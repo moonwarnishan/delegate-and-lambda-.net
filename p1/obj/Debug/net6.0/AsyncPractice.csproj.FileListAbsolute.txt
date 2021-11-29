@@ -1,0 +1,16 @@
+D:\AsyncPractice\bin\Debug\net6.0\TextFile1.txt
+D:\AsyncPractice\bin\Debug\net6.0\AsyncPractice.exe
+D:\AsyncPractice\bin\Debug\net6.0\AsyncPractice.deps.json
+D:\AsyncPractice\bin\Debug\net6.0\AsyncPractice.runtimeconfig.json
+D:\AsyncPractice\bin\Debug\net6.0\AsyncPractice.dll
+D:\AsyncPractice\bin\Debug\net6.0\ref\AsyncPractice.dll
+D:\AsyncPractice\bin\Debug\net6.0\AsyncPractice.pdb
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.csproj.AssemblyReference.cache
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.AssemblyInfoInputs.cache
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.AssemblyInfo.cs
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.csproj.CoreCompileInputs.cache
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.dll
+D:\AsyncPractice\obj\Debug\net6.0\ref\AsyncPractice.dll
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.pdb
+D:\AsyncPractice\obj\Debug\net6.0\AsyncPractice.genruntimeconfig.cache

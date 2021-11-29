@@ -1,0 +1,15 @@
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.csproj.AssemblyReference.cache
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.AssemblyInfoInputs.cache
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.AssemblyInfo.cs
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.csproj.CoreCompileInputs.cache
+D:\FuncinCSharp\bin\Debug\net6.0\FuncinCSharp.exe
+D:\FuncinCSharp\bin\Debug\net6.0\FuncinCSharp.deps.json
+D:\FuncinCSharp\bin\Debug\net6.0\FuncinCSharp.runtimeconfig.json
+D:\FuncinCSharp\bin\Debug\net6.0\FuncinCSharp.dll
+D:\FuncinCSharp\bin\Debug\net6.0\ref\FuncinCSharp.dll
+D:\FuncinCSharp\bin\Debug\net6.0\FuncinCSharp.pdb
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.dll
+D:\FuncinCSharp\obj\Debug\net6.0\ref\FuncinCSharp.dll
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.pdb
+D:\FuncinCSharp\obj\Debug\net6.0\FuncinCSharp.genruntimeconfig.cache

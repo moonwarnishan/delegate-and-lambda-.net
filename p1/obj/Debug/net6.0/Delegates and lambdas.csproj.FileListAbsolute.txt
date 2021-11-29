@@ -1,0 +1,15 @@
+D:\AsyncPractice\bin\Debug\net6.0\Delegates and lambdas.exe
+D:\AsyncPractice\bin\Debug\net6.0\Delegates and lambdas.deps.json
+D:\AsyncPractice\bin\Debug\net6.0\Delegates and lambdas.runtimeconfig.json
+D:\AsyncPractice\bin\Debug\net6.0\Delegates and lambdas.dll
+D:\AsyncPractice\bin\Debug\net6.0\ref\Delegates and lambdas.dll
+D:\AsyncPractice\bin\Debug\net6.0\Delegates and lambdas.pdb
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.csproj.AssemblyReference.cache
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.AssemblyInfoInputs.cache
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.AssemblyInfo.cs
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.csproj.CoreCompileInputs.cache
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.dll
+D:\AsyncPractice\obj\Debug\net6.0\ref\Delegates and lambdas.dll
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.pdb
+D:\AsyncPractice\obj\Debug\net6.0\Delegates and lambdas.genruntimeconfig.cache
