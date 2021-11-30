@@ -1,0 +1,15 @@
+D:\delegate and lambda\p3\bin\Debug\net6.0\p3.exe
+D:\delegate and lambda\p3\bin\Debug\net6.0\p3.deps.json
+D:\delegate and lambda\p3\bin\Debug\net6.0\p3.runtimeconfig.json
+D:\delegate and lambda\p3\bin\Debug\net6.0\p3.dll
+D:\delegate and lambda\p3\bin\Debug\net6.0\ref\p3.dll
+D:\delegate and lambda\p3\bin\Debug\net6.0\p3.pdb
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.csproj.AssemblyReference.cache
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.GeneratedMSBuildEditorConfig.editorconfig
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.AssemblyInfoInputs.cache
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.AssemblyInfo.cs
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.csproj.CoreCompileInputs.cache
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.dll
+D:\delegate and lambda\p3\obj\Debug\net6.0\ref\p3.dll
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.pdb
+D:\delegate and lambda\p3\obj\Debug\net6.0\p3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\delegate and lambda\closures\bin\Debug\net6.0\closures.exe
+D:\delegate and lambda\closures\bin\Debug\net6.0\closures.deps.json
+D:\delegate and lambda\closures\bin\Debug\net6.0\closures.runtimeconfig.json
+D:\delegate and lambda\closures\bin\Debug\net6.0\closures.dll
+D:\delegate and lambda\closures\bin\Debug\net6.0\ref\closures.dll
+D:\delegate and lambda\closures\bin\Debug\net6.0\closures.pdb
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.csproj.AssemblyReference.cache
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.GeneratedMSBuildEditorConfig.editorconfig
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.AssemblyInfoInputs.cache
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.AssemblyInfo.cs
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.csproj.CoreCompileInputs.cache
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.dll
+D:\delegate and lambda\closures\obj\Debug\net6.0\ref\closures.dll
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.pdb
+D:\delegate and lambda\closures\obj\Debug\net6.0\closures.genruntimeconfig.cache
